@@ -1,27 +1,20 @@
-# fire-angular
-The Fire bootstrap &amp; framework library for AngularJS.
+# Concrete Games
 
-## What's Included
-This package uses:
+## Overview
+Discover a new way to share games.
+
+## Learn More
+The Concrete Games platform allows both gamers and developers to connect over desktop, mobile, and/or web games. Developers can share games, using our friendly platform. Gamers can explore games, connect with friends, and even collect achievements (just like with a game console). There's no end to the fun that can be had on the Concrete Games platform!
+
+## Made With
+- Love By Blazed Labs LLC, and;
+- [Fire Angular](https://github.com/blazed-space/fire-angular)
 - [AngularJS](https://angular.io/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [MelonJS (2d)](https://www.melonjs.org/)
+- [ThreeJS (3d)](https://threejs.org/)
 
-## Installing
-To install, run the following command at the root of the directory:
-```sh
-npm install
-```
-
-## Live Development Server
-To run a live dev server, first ensure you have NPM installed. Then, if you have not already, install the Angular CLI,
-
-```sh
-npm install -g @angular/cli
-```
-
-Once installed, you can run a simple development server with the following command:
-
-```sh
-ng serve
-```
-
+## Development Team
+- [Tyler Ruff](https://github.com/tyler-ruff)
+- [Matthew Ruff](https://github.com/matt-ruff)
+- Star Dom
