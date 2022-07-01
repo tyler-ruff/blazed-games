@@ -1,20 +1,26 @@
 # Concrete Games
 
-## Overview
-Discover a new way to share games.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aab79398-3282-4561-82ca-e1c9b92b1648/deploy-status)](https://app.netlify.com/sites/blazed-games/deploys)
+
+Games for desktop, mobile, and web-based interaction.
+
+- [Visit Website](https://blazed.games/)
 
 ## Learn More
-The Concrete Games platform allows both gamers and developers to connect over desktop, mobile, and/or web games. Developers can share games, using our friendly platform. Gamers can explore games, connect with friends, and even collect achievements (just like with a game console). There's no end to the fun that can be had on the Concrete Games platform!
+The Concrete Games platform allows for games to be created, published, and managed through a community. Development tools, as well as QA, is provided to ensure quality of service.
 
-## Made With
-- Love By Blazed Labs LLC, and;
+# Credits
+![Last Commit](https://img.shields.io/github/last-commit/tyler-ruff/blazed-games?style=for-the-badge "Last Commit")
+
+## Development Team
+- Maintained by: [The Blazed Development Group](https://www.facebook.com/groups/blzdev)
+- Published by: [Blazed Publishing](https://blazed.xyz/)
+- Lead Developer, Project Management: [Tyler Ruff](https://github.com/tyler-ruff)
+- UX Testing, Project Advising: Star Dom
+- Design, Project Advising: [Matthew Ruff](https://github.com/matt-ruff)
+
+## Special Thanks
 - [Fire Angular](https://github.com/blazed-space/fire-angular)
 - [AngularJS](https://angular.io/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [MelonJS (2d)](https://www.melonjs.org/)
-- [ThreeJS (3d)](https://threejs.org/)
-
-## Development Team
-- [Tyler Ruff](https://github.com/tyler-ruff)
-- [Matthew Ruff](https://github.com/matt-ruff)
-- Star Dom
+- [Netlify](https://netlify.com/)
